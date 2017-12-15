@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2017\Projects\TestBrute\TestBrute\bin\Debug\TestBrute.exe.config
+c:\users\user\documents\visual studio 2017\Projects\TestBrute\TestBrute\bin\Debug\TestBrute.exe
+c:\users\user\documents\visual studio 2017\Projects\TestBrute\TestBrute\bin\Debug\TestBrute.pdb
+c:\users\user\documents\visual studio 2017\Projects\TestBrute\TestBrute\obj\Debug\TestBrute.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\TestBrute\TestBrute\obj\Debug\TestBrute.Form1.resources
+c:\users\user\documents\visual studio 2017\Projects\TestBrute\TestBrute\obj\Debug\TestBrute.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\TestBrute\TestBrute\obj\Debug\TestBrute.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\TestBrute\TestBrute\obj\Debug\TestBrute.exe
+c:\users\user\documents\visual studio 2017\Projects\TestBrute\TestBrute\obj\Debug\TestBrute.pdb
